@@ -8,7 +8,7 @@ import 'package:news_app/features/home_screen/widgets/article_card_widget.dart';
 import 'package:news_app/features/home_screen/services/home_screen_services.dart';
 import 'package:news_app/features/home_screen/widgets/top_headline_item_widget.dart';
 import 'package:news_app/features/home_screen/widgets/custom_category_item_widget.dart';
-
+//hhhh
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
@@ -18,11 +18,9 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   @override
-  void initState() {
-    // TODO: implement initState
-
-    super.initState();
-  }
+  // void initState() {
+  //   super.initState();
+  // }
 
   @override
   Widget build(BuildContext context) {
